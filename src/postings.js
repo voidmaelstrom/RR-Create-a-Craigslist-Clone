@@ -1,26 +1,26 @@
 export const postings = [
     {
-        title: "Car For Sale",
-        description: "Dope 1989 Honda Civic on 22\" rims, don't waste my time I know what I have",
-        price: '$3000',
-        imageURL: '/assets/sick_civic.jpeg'
+        title: "Sega Saturn up for sale!",
+        description: "SEGA Saturn is ready to go for only $175.00 with everything you see here!",
+        price: '$175',
+        imageURL: '/assets/sega_saturn.jpg'
     },
     {
-        title: 'Piranhas',
-        description: 'I didn\'t know these little guys were carnivorous and now my cats upset',
-        price: '$25',
-        imageURL: '/assets/piranha.jpeg'
+        title: 'Neo Geo MVS',
+        description: 'Neo Geo MVS Arcade Cabinet with preloaded games!',
+        price: '$500',
+        imageURL: '/assets/neo_geo_mvs.jpg'
     },
     {
-        title: 'Need help beating the Water Temple',
-        description: 'Everyone told me it would be hard but I literally cannot adjust the water levels one more time without going insane',
-        price: 'You name it, I\'ll pay it',
-        imageURL: '/assets/water_temple.jpeg'
+        title: 'Sony PS5 for sale!',
+        description: 'Sony PS5 is up for only $900 with everything here!',
+        price: '$900',
+        imageURL: '/assets/sony_ps5.jpg'
     },
     {
-        title: 'Buying a VHS player',
-        description: 'You have no idea how hard it is to find a VHS player these days and I have this VHS of dirty dancing from 1987 and I just need to escape to the Catskills with Patrick Swayze so badly right now',
-        price: '$6000',
-        imageURL: '/assets/dirty_dancing_vhs.jpeg'
+        title: 'Looking for a Nintendo Switch!',
+        description: 'Where is a Switch I can afford? Please let me know!',
+        price: '$400',
+        imageURL: '/assets/switch.jpg'
     }
 ]
